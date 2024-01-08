@@ -6,7 +6,7 @@
   
 - I make apps for Minecraft Realm owners to show their server maps
   
-- I mainly focus on web development but I've dipped into software
+- I mainly focus on web development but I've tested the waters of software
   
 - I play trumpet, piano, ukulele, and I wanna learn saxophone
   
