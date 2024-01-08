@@ -4,7 +4,7 @@
 
 - Lead Designer and CEO of [RealmCenter](https://realmcenter.org)
   
-- I make [https://realmcenter.github.io/](apps) for Minecraft Realm owners to show their server maps
+- I make [apps](https://realmcenter.github.io/) for Minecraft Realm owners to show their server maps
   
 - I mainly focus on web development but I've tested the waters of software
   
