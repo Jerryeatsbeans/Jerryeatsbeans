@@ -1,5 +1,6 @@
 <img src="https://realmcenter.org/assets/logo-f76ef188.png" alt="rc" width="300"/>
-### My name is Jeremiah and here's some cool stuff I do 👋
+
+## My name is Jeremiah and here's some cool stuff I do 👋
 
 - Lead Designer and CEO of https://realmcenter.org
   
