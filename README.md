@@ -2,7 +2,7 @@
 
 ## My name is Jeremiah and here's some cool stuff I do 👋
 
-> - Lead Designer and CEO of [RealmCenter](https://realmcenter.org)
+> - Lead Designer of [RealmCenter](https://realmcenter.org)
 >   
 > - I make [apps](https://realmcenter.github.io/) for Minecraft Realm owners to show their server maps
 >   
