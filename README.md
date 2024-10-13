@@ -1,5 +1,5 @@
 <img src="https://realmcenter.org/assets/logo-f76ef188.png" alt="rc" width="300"/>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1000826721735561327)] (https://discord.com/users/1000826721735561327)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1000826721735561327) ](https://discord.com/users/1000826721735561327)
 
 ## My name is Jeremiah and here's some cool stuff I do 👋
 
