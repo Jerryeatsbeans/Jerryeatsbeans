@@ -4,10 +4,10 @@
 
 > - Lead Designer of [RealmCenter](https://realmcenter.org)
 >   
-> - I make [apps](https://realmcenter.github.io/) for Minecraft Realm owners to show their server maps
+> - I make [addons](https://mcpedl.com/) for Minecraft Bedrock Edition
 >   
 > - I mainly focus on web development but I've tested the waters of software
 >   
-> - I play trumpet, piano, ukulele, and I wanna learn saxophone
+> - Nasty trumpet player
 >   
-> - I'm an experienced archer and have quite the target collection
+> - Learning reverse engineering
